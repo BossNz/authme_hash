@@ -17,5 +17,5 @@ console.log(verifyhash(text,hash))
 
 ```
 ## Function
-***hashpassword( text )***
+***hashpassword( text )*** <br>
 ***verifyhash( text , hash )***
