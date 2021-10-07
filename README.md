@@ -1,5 +1,5 @@
 # Hash&Check Password Authme
-
+for database Authme Minecraft.
 ## Examples
 ```js
 const hashpassword = require("./auth").hashpassword
